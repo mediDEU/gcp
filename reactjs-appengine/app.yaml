@@ -6,5 +6,3 @@ handlers:
 - url: /.*
   static_files: build/index.html
   upload: build/index.html
-basic_scaling:
-  min_instances: 3
